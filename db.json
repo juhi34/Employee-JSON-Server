@@ -1,0 +1,73 @@
+{
+  "employee": [
+    {
+      "name": "Ritu",
+      "email": "ritu@123",
+      "phone": "8987654321",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Raushan",
+      "email": "raushan123@gmail",
+      "phone": "9876543231",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "shyam",
+      "email": "ram@123gmail.com",
+      "phone": "6789548909",
+      "id": 6
+    },
+    {
+      "name": "puhi",
+      "email": "juhi@123",
+      "phone": "5678909876",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "Priya",
+      "email": "priya@123",
+      "phone": "7890765432",
+      "active": true,
+      "id": 8
+    },
+    {
+      "name": "Priya",
+      "email": "priya@123gmail",
+      "phone": "7890765432",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "bhaiya",
+      "email": "bhaiya@gmail.com",
+      "phone": "8804436527",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "Didi",
+      "email": "Didi@gmail.com",
+      "phone": "8804436500",
+      "active": true,
+      "id": 11
+    },
+    {
+      "name": "juhi",
+      "email": "juhi@123",
+      "phone": "5678909876",
+      "active": true,
+      "id": 13
+    },
+    {
+      "name": "Puja",
+      "email": "puja@gmail.com",
+      "phone": "8542575896",
+      "active": true,
+      "id": 14
+    }
+  ]
+}
